@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there visitor 👋, welcome to my GitHub profile.
+I'm Steeven Lopez, but OppositeDragon is my user name in almost everything a software developer with a passion for solving problems and creating innovative solutions. I specialize in Dart, Flutter, and Java, and have experience in developing mobile, web and desktop applications. I am constantly learning new technologies to improve my skills and deliver the best possible results. My GitHub profile showcases some of my personal projects and contributions to the open-source community. Thank you for visiting, feel free to take a look around and connect with me if you have any questions or opportunities
+
+Hello, my name is OppositDragon and I am a [insert your job or profession here]. I have a passion for programming and enjoy working on projects that push the boundaries of what's possible. My GitHub profile showcases a selection of my personal projects, contributions to open-source projects, and publications. I am always seeking new opportunities to collaborate and learn from others in the developer community. Take a look around and don't hesitate to reach out if you have any questions or would like to discuss potential projects together.
 reach me here: [mail](mailto:stee-ven_94@outlook.com)
 <!--
 **OppositeDragon/OppositeDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
