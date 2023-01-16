@@ -15,7 +15,7 @@ _What others have to say about me:_ "Steeven has a wide range of interests and i
 
 Thank you for visiting, feel free to take a look around and don't hesitate to connect with me if you have any questions or opportunities.
 ### TOP Languages
-[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=oppositedragon&langs_count=8&layout=compact)](https://github.com/oppositedragon/github-readme-stats)
+[![OppositeDragon's Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=oppositedragon&langs_count=8&layout=compact)](https://github.com/oppositedragon/github-readme-stats)
 
 ### GitHub stats
 [![OppositeDragon's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=oppositedragon&count_private=true&show_icons=true&bg_color=0100000)](https://github.com/oppositedragon/github-readme-stats)
