@@ -1,4 +1,10 @@
 ## 👋 Hello there visitor , welcome to my GitHub profile.
+
+<div style="text-align:center">
+<img style="object-fit: cover; height: 250px; width: 70%;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" >
+</div>
+
+
 I am Steeven Lopez, but I go by __OppositeDragon__ almost everywhere on the internet. I am a senior software engineering student, with a passion for solving problems. My favorite language is Dart, and really like working with Flutter. Since I enjoy working with Flutter, I have experience developing mobile, web and desktop applications whit the framework. I am constantly learning new technologies to improve my skills and deliver the best possible results. My GitHub profile showcases some of my personal projects.
 
 I have a good understanding of the Flutter framework and its capabilities. I have worked on multiple projects, both personal and professional, and created high-performance, user-friendly cross-platform applications. My expertise in Flutter includes working with custom widgets, state management, and integrating with various APIs and services.
