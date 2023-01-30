@@ -50,8 +50,8 @@ Thank you for visiting, feel free to take a look around and don't hesitate to co
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
+> You could also visit my ![portfolio website](https://oppositedragon-portfolio.web.app)
+---
 ### OppositeDragons's Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=OppositeDragon)](https://git.io/streak-stats)
 
