@@ -43,6 +43,9 @@ _What others have to say about me:_ "Steeven has a wide range of interests and i
 Thank you for visiting, feel free to take a look around and don't hesitate to connect with me if you have any questions or opportunities.
 
 <div id="badges">
+   <a href="https://oppositedragon-portfolio.web.app"  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-website-blueviolet?style=for-the-badge" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/steevenlopez/"  target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -50,8 +53,8 @@ Thank you for visiting, feel free to take a look around and don't hesitate to co
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-> You could also visit my ![portfolio website](https://oppositedragon-portfolio.web.app)
----
+
+
 ### OppositeDragons's Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=OppositeDragon)](https://git.io/streak-stats)
 
